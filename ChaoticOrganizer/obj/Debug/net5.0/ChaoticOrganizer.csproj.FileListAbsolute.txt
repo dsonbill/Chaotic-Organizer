@@ -1,0 +1,16 @@
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\bin\Debug\net5.0\ChaoticOrganizer.exe
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\bin\Debug\net5.0\ChaoticOrganizer.deps.json
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\bin\Debug\net5.0\ChaoticOrganizer.runtimeconfig.json
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\bin\Debug\net5.0\ChaoticOrganizer.runtimeconfig.dev.json
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\bin\Debug\net5.0\ChaoticOrganizer.dll
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\bin\Debug\net5.0\ref\ChaoticOrganizer.dll
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\bin\Debug\net5.0\ChaoticOrganizer.pdb
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\obj\Debug\net5.0\ChaoticOrganizer.csproj.AssemblyReference.cache
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\obj\Debug\net5.0\ChaoticOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\obj\Debug\net5.0\ChaoticOrganizer.AssemblyInfoInputs.cache
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\obj\Debug\net5.0\ChaoticOrganizer.AssemblyInfo.cs
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\obj\Debug\net5.0\ChaoticOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\obj\Debug\net5.0\ChaoticOrganizer.dll
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\obj\Debug\net5.0\ref\ChaoticOrganizer.dll
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\obj\Debug\net5.0\ChaoticOrganizer.pdb
+C:\Users\dsonbill\source\repos\ChaoticOrganizer\ChaoticOrganizer\obj\Debug\net5.0\ChaoticOrganizer.genruntimeconfig.cache
