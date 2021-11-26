@@ -141,6 +141,8 @@ namespace ChaoticOrganizer
 
                 int right = GenerateNewRandom(4, 15896);
 
+                //int redo = GenerateNewRandom(5, 87412);
+
                 string output = "";
                 output += ((char)((int)ScaleBetweenNumber(RandomFunction(mom), 500, 2500, 0, 24) + 65)).ToString();
 
@@ -232,6 +234,8 @@ namespace ChaoticOrganizer
                 output += ((char)((int)ScaleBetweenNumber(RandomFunction(reducer), 500, 2500, 0, 24) + 65)).ToString();
 
                 output += ((char)((int)ScaleBetweenNumber(RandomFunction(right), 500, 2500, 0, 24) + 65)).ToString();
+
+                //output += ((char)((int)ScaleBetweenNumber(RandomFunction(redo), 500, 2500, 0, 24) + 65)).ToString();
 
 
 

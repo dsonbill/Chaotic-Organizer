@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsonbill\\source\\repos\\ChaoticOrganizer\\ChaoticOrganizer\\ChaoticOrganizer.csproj": {}
+    "L:\\GitHub\\Chaotic-Organizer\\ChaoticOrganizer\\ChaoticOrganizer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsonbill\\source\\repos\\ChaoticOrganizer\\ChaoticOrganizer\\ChaoticOrganizer.csproj": {
+    "L:\\GitHub\\Chaotic-Organizer\\ChaoticOrganizer\\ChaoticOrganizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsonbill\\source\\repos\\ChaoticOrganizer\\ChaoticOrganizer\\ChaoticOrganizer.csproj",
+        "projectUniqueName": "L:\\GitHub\\Chaotic-Organizer\\ChaoticOrganizer\\ChaoticOrganizer.csproj",
         "projectName": "ChaoticOrganizer",
-        "projectPath": "C:\\Users\\dsonbill\\source\\repos\\ChaoticOrganizer\\ChaoticOrganizer\\ChaoticOrganizer.csproj",
+        "projectPath": "L:\\GitHub\\Chaotic-Organizer\\ChaoticOrganizer\\ChaoticOrganizer.csproj",
         "packagesPath": "C:\\Users\\dsonbill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsonbill\\source\\repos\\ChaoticOrganizer\\ChaoticOrganizer\\obj\\",
+        "outputPath": "L:\\GitHub\\Chaotic-Organizer\\ChaoticOrganizer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dsonbill\\AppData\\Roaming\\NuGet\\NuGet.Config",
