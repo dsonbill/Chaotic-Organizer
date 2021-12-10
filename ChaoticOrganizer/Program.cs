@@ -12,22 +12,24 @@ namespace ChaoticOrganizer
             for (int i = 0; i < int.MaxValue; i++)
             {
                 Organizer.Payload payload = organizer.Pump();
+                //Console.Write(organizer.Pump().Dump);
+
 
                 if (payload.Locked == true && payload.Solver == "DCC" && payload.Link == payload.Latch)
                 {
                     //payload.Designation
-                    //payload.Information
-
+                    //payload.Information23wwwwwwwwww
+                
                     //payload.Link
                     //payload.Code
                     //payload.Target
-
+                
                     //payload.Latch
-
+                
                     //payload.Locked
-
+                
                     //payload.Solver
-
+                
                     Console.WriteLine("Designation: " + payload.Designation + " " +
                         "Information: f" + payload.Information + " " +
                         "Code: " + payload.Code + " " +

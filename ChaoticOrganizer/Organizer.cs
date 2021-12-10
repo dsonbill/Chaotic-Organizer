@@ -20,7 +20,9 @@ public class Organizer
 
         public readonly string Solver;
 
-        public Payload(Char designation, int information, int link, int code, string target, int latch, bool locked, string solver)
+        public readonly string Dump;
+
+        public Payload(Char designation, int information, int link, int code, string target, int latch, bool locked, string solver, string crap)
         {
             Designation = designation;
             Information = information;
@@ -34,6 +36,8 @@ public class Organizer
             Locked = locked;
 
             Solver = solver;
+
+            Dump = crap;
         }
     }
 
@@ -218,6 +222,16 @@ public class Organizer
 
         int colin3 = GenerateNewRandom(2, 1478963);
 
+        int media_code = GenerateNewRandom(0, 5555555);
+        
+        int l0 =  GenerateNewRandom(0, 703521);
+
+        int a =  GenerateNewRandom(1,38114957);
+
+        int s =  GenerateNewRandom(268635, 4012897);
+
+        int MottAlot = GenerateNewRandom(44, 217);
+
         string output = "";
         output += ((char)((int)ScaleBetweenNumber(RandomFunction(mom), 500, 2500, 0, 24) + 65)).ToString();
 
@@ -321,6 +335,16 @@ public class Organizer
         output += ((char)((int)ScaleBetweenNumber(RandomFunction(colin2), 500, 2500, 0, 24) + 65)).ToString();
 
         output += ((char)((int)ScaleBetweenNumber(RandomFunction(colin3), 500, 2500, 0, 24) + 65)).ToString();
+
+        output += ((char)((int)ScaleBetweenNumber(RandomFunction(media_code), 500, 2500, 0, 24) + 65)).ToString();
+
+        output += ((char)((int)ScaleBetweenNumber(RandomFunction(l0), 500, 2500, 0, 24) + 65)).ToString();
+
+        output += ((char)((int)ScaleBetweenNumber(RandomFunction(a), 500, 2500, 0, 24) + 65)).ToString();
+
+        output += ((char)((int)ScaleBetweenNumber(RandomFunction(s), 500, 2500, 0, 24) + 65)).ToString();
+
+        output += ((char)((int)ScaleBetweenNumber(RandomFunction(MottAlot), 500, 2500, 0, 24) + 65)).ToString();
 
 
         //Memory System
@@ -426,7 +450,7 @@ public class Organizer
             co += c - 65;
         }
 
-        return new Payload(arr[0], x, l, co, target, spacialLatch, lockedLink, solver);
+        return new Payload(arr[0], x, l, co, target, spacialLatch, lockedLink, solver, theory);
 
 
 
