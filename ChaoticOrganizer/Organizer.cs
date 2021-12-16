@@ -232,6 +232,10 @@ public class Organizer
 
         int MottAlot = GenerateNewRandom(44, 217);
 
+        int Unresolved = GenerateNewRandom(404, 667);
+
+        int OnTheLetter = GenerateNewRandom(1, 4310);
+
         string output = "";
         output += ((char)((int)ScaleBetweenNumber(RandomFunction(mom), 500, 2500, 0, 24) + 65)).ToString();
 
@@ -345,6 +349,10 @@ public class Organizer
         output += ((char)((int)ScaleBetweenNumber(RandomFunction(s), 500, 2500, 0, 24) + 65)).ToString();
 
         output += ((char)((int)ScaleBetweenNumber(RandomFunction(MottAlot), 500, 2500, 0, 24) + 65)).ToString();
+        
+        output += ((char)((int)ScaleBetweenNumber(RandomFunction(Unresolved), 500, 2500, 0, 24) + 65)).ToString();
+
+        output += ((char)((int)ScaleBetweenNumber(RandomFunction(OnTheLetter), 500, 2500, 0, 24) + 65)).ToString();
 
 
         //Memory System
