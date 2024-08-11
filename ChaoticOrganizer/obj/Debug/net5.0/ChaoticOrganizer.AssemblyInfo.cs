@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChaoticOrganizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a08f70fbea3919cdfb1595bbaaff1e647b4715c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChaoticOrganizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChaoticOrganizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

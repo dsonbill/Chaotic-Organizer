@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rIcAUYRMyhScSXTNsGPUba5RPPHW9F/OdUHyWLh+6FPKR8fFOh43RgXzKW2n8ylS/t+czCDCL2uDgVCv4QxSiQ==",
+  "dgSpecHash": "+0zKMBokwYg=",
   "success": true,
-  "projectFilePath": "L:\\GitHub\\Chaotic-Organizer\\ChaoticOrganizer\\ChaoticOrganizer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\lualt\\OneDrive\\Documents\\GitHub\\Chaotic-Organizer\\ChaoticOrganizer\\ChaoticOrganizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lualt\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lualt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lualt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lualt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

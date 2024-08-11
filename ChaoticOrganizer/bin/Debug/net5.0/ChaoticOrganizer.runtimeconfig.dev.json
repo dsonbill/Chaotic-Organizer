@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\dsonbill\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\dsonbill\\.nuget\\packages"
+      "C:\\Users\\lualt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lualt\\.nuget\\packages"
     ]
   }
 }
